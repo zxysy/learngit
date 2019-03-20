@@ -1,3 +1,7 @@
 add dev branch
 
+<<<<<<< HEAD
 zhang
+=======
+zxy
+>>>>>>> dev
