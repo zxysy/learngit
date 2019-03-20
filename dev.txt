@@ -4,4 +4,4 @@ zxy
 
 dm
 dv
-zxy
+zxy origin
