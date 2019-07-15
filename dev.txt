@@ -4,7 +4,6 @@ zxy
 
 dm
 dv
-<<<<<<< HEAD
 zxyzxyzxyzxy
 zxyzxy3
 zxyzxy4
@@ -14,7 +13,3 @@ zxy6
 zxy9
 zxy11
 zxy12222222
-=======
-zxy origin
-zxydddd
->>>>>>> dev
